@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Give me some sunshine",
+        "artist": "3 idiots",
+        "file": "songs/give me some sunshine.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Bhussi",
+        "artist": "Seedhe Maut",
+        "file": "songs/Bhussi.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "101",
+        "artist": "Seedhe Maut",
+        "file": "songs/101.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "khush nahi",
+        "artist": "Seedhe Maut",
+        "file": "songs/khush nahi.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "nanchaku",
+        "artist": "Seedhe Maut",
+        "file": "songs/nanchaku.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "soyi nahi",
+        "artist": "Seedhe Maut",
+        "file": "songs/soyi nahi.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Red",
+        "artist": "Seedhe Maut",
+        "file": "songs/Red.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Kodak",
+        "artist": "Seedhe Maut",
+        "file": "songs/Kodak.mp3",
+        "cover": "covers/default.jpg"
+    }
+]
