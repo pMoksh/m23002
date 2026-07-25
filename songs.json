@@ -46,5 +46,11 @@
         "artist": "Seedhe Maut",
         "file": "songs/Kodak.mp3",
         "cover": "covers/default.jpg"
+    }, 
+    {
+        "title": "Aapka kya hoga",
+        "artist": "Housefull",
+        "file": "songs/Aapka kya hoga.mp3",
+        "cover": "covers/default.jpg"
     }
 ]
