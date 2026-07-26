@@ -52,5 +52,17 @@
         "artist": "Housefull",
         "file": "songs/Aapka kya hoga.mp3",
         "cover": "covers/default.jpg"
-    }
+    },
+    {
+        "title": "Tum se hi",
+        "artist": "Jab we met",
+        "file": "songs/Tum Se Hi.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Ajj Din Chadeya",
+        "artist": "Jab we met",
+        "file": "songs/Ajj Din Chadeya.mp3",
+        "cover": "covers/default.jpg"
+    },
 ]
