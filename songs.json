@@ -64,5 +64,23 @@
         "artist": "Jab we met",
         "file": "songs/Ajj Din Chadeya.mp3",
         "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Tour shit",
+        "artist": "SM",
+        "file": "songs/Tour Shit (PenduJatt.Com.Se).mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Tu jaane na",
+        "artist": "Apkgk",
+        "file": "songs/Tu Jaane Na Reprise Ajab Prem Ki Ghazab Kahani 128 Kbps.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Tera hone laga hun",
+        "artist": "Apkgk",
+        "file": "songs/Tera Hone Laga Hoon Remix By Dj Suketu Ajab Prem Ki Ghazab Kahani 128 Kbps.mp3",
+        "cover": "covers/default.jpg"
     }
 ]
