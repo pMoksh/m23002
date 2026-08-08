@@ -82,5 +82,11 @@
         "artist": "Apkgk",
         "file": "songs/Tera Hone Laga Hoon (PenduJatt.Com.Se).mp3",
         "cover": "covers/default.jpg"
+    } 
+    {
+        "title": "Milne Hai Mujhse Aayi Aashiqui",
+        "artist": "Apkgk",
+        "file": "songs/Milne Hai Mujhse Aayi Aashiqui.mp3",
+        "cover": "covers/default.jpg"
     }
 ]
