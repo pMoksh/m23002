@@ -6,9 +6,9 @@
         "cover": "covers/default.jpg"
     },
     {
-        "title": "Bhussi",
-        "artist": "Seedhe Maut",
-        "file": "songs/Bhussi.mp3",
+        "title": "Kabira",
+        "artist": "YJHD",
+        "file": "songs/Kabira.mp3",
         "cover": "covers/default.jpg"
     },
     {
@@ -36,9 +36,9 @@
         "cover": "covers/default.jpg"
     },
     {
-        "title": "Red",
+        "title": "Nadan Parindey",
         "artist": "Seedhe Maut",
-        "file": "songs/Red.mp3",
+        "file": "songs/Naadan Parindey.mp3",
         "cover": "covers/default.jpg"
     },
     {
@@ -88,5 +88,29 @@
         "artist": "Apkgk",
         "file": "songs/Milne Hai Mujhse Aayi Aashiqui.mp3",
         "cover": "covers/default.jpg"
-    }
+    },
+    {
+        "title": "Masakali",
+        "artist": "Apkgk",
+        "file": "songs/Masakali.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Kun Faaya Kun",
+        "artist": "Apkgk",
+        "file": "songs/Kun Faaya Kun.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Bhar Do Jholi Meri",
+        "artist": "Apkgk",
+        "file": "songs/Bhar Do Jholi Meri.mp3",
+        "cover": "covers/default.jpg"
+    },
+    {
+        "title": "Kya Mujhe Pyaar Hai",
+        "artist": "Apkgk",
+        "file": "songs/Kya Mujhe Pyaar Hai.mp3",
+        "cover": "covers/default.jpg"
+    },
 ]
